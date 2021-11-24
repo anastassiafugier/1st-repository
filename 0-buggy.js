@@ -1,4 +1,4 @@
-let firstNum = 2;
-let secondNum = 3;
-let sum = firstNum + secondNum;
-alert(sum);
+const firstNum = 43;
+const secondNum = 19;
+const sum_of_num = firstNum + secondNum;
+console.log(sum_of_num);
