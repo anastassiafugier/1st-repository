@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <cstdio>
 
 int main() {
-  int first_num = 2;
-  int secord_num = 3;
-  int sum = firstNum + secondNum;
-  printf("%d\n", sum);
+  int firstNum = 67;
+  int secondNum = 45;
+  int sum_of_num = firstNum + secondNum;
+  printf("sum: %d", sum_of_num);
 }
