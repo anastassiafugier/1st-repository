@@ -3,6 +3,6 @@
 int main() {
   int firstNum = 67;
   int secondNum = 45;
-  int sum_of_num = firstNum + secondNum;
-  printf("sum: %d", sum_of_num);
+  int sumOfNum = firstNum + secondNum;
+  printf("sum: %d", sumOfNum);
 }
