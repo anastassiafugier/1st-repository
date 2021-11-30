@@ -3,13 +3,13 @@
 function sumLoop(firstNum, secondNum) {
     const arguments = [firstNum, secondNum];
     let num = 0;
-    for( let value of arguments) {
+    for(const value of arguments) {
         num += value
     }
-    console.log(num)
     return num
 }
 
 
 // Usage
-sumLoop(35, 56)
+num = sumLoop(35, 56)
+console.log(num)
